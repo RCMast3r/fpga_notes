@@ -8,3 +8,8 @@
 
 - what is SIMD? Single Instruction, Multiple Data meaning that we can handle multiple multiplication / add / subtract ops in one clock cycle in certain situations
 
+## optimization techniques:
+
+- copying data to BRAM
+- loop unrolling 
+- pipelining
